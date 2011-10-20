@@ -1,0 +1,3 @@
+ * Math.nchoosek(n,k) , limited by Math::MAX_FACTORIAL_VALUES_CACHED_INDEX
+ * license file added
+ * Math.factorial_c_gogo , limited up to 61!
